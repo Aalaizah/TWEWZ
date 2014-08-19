@@ -1,8 +1,0 @@
-1 // Zombie Multiplier
-4 // Level (starts at 0, ends at 4)
-6 // Strength
-1 // Proficency
-660 // Score
-0,1,2,3,4, // Weapons: 0-9, last number must have a ',' (ex: 0,1,2,)
-14 // Food
-1059 // Ammo
